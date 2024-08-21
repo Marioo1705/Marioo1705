@@ -3,7 +3,7 @@
 ```js
 const Marioo1705 = {
   pronouns: "he" | "him",
-  interests: [Javascript, HTML, CSS, Python, PostgreSQL, Scripting en Bash, Odoo],
+  interests: [Javascript, HTML, CSS, Python, PostgreSQL, Scripting en Bash, Odoo]
 }
 ```
 <!--
