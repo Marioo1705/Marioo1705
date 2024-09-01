@@ -6,6 +6,13 @@ const Marioo1705 = {
   skills: [Javascript, HTML, CSS, Python, PostgreSQL, Scripting en Bash, Odoo]
 }
 ```
+
+# Informático Junior
+
+![Imagen](Imagen.png)
+
+# Apasionado Senior de la Informática
+
 <!--
 **Marioo1705/Marioo1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
