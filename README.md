@@ -9,7 +9,7 @@ const Marioo1705 = {
 
 # Informático Junior
 
-![Imagen](Imagen.png)
+![Imagen](imagen.png)
 
 # Apasionado Senior de la Informática
 
